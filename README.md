@@ -5,8 +5,8 @@ The goal of this project is to evaluate the privacy leakage of differential priv
 The code has been adapted from the [code base](https://github.com/csong27/membership-inference) of membership inference attack work by [Shokri et al.](https://ieeexplore.ieee.org/document/7958568)
 
 Below we describe the procedure to run the experiments for the following projects:
-* [Evaluating Differentially Private Machine Learning in Practice](#evaluating-differentially-private-machine-learning-in-practice)
-* [Revisiting Membership Inference under Realistic Assumptions](#revisiting-membership-inference-under-realistic-assumptions)
+* [Evaluating Differentially Private Machine Learning in Practice](#evaluating-differentially-private-machine-learning-in-practice). Paper: [arXiv](https://arxiv.org/abs/2005.10881), May 2020.
+* [Revisiting Membership Inference under Realistic Assumptions](#revisiting-membership-inference-under-realistic-assumptions). Paper: [arXiv](https://arxiv.org/abs/1902.08874), in USENIX Security 2019 [talk](https://www.youtube.com/watch?v=JAGhqbY_U50).
 
 
 ### Requirements
